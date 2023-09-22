@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kannan-06  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Kannan-06/Kannan-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
