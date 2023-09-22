@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kannan-06
-- 👀 I’m interested in Full stack Developer
-- 🌱 I’m currently learning Front end language's
+- 👋 Hi, I’m @Kannan-06  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
